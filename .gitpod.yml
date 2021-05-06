@@ -1,4 +1,4 @@
-image: ubuntu:latest
+image: ubuntu:20
 github:
   prebuilds:
     # enable for the master/default branch (defaults to true)
